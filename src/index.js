@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter basename="/repo-name">
+  <BrowserRouter basename="/my-react-app">
     <App />
   </BrowserRouter>
 );
